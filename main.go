@@ -1,3 +1,5 @@
+// Example of execution
+
 package main
 
 import (
