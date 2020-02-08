@@ -8,6 +8,7 @@ Both input and output are only int-type.
 This was created in practice.
 <br>
 Currently, there are the following sorts:
+- Bubble sort
 - Insertion sort
 - Merge sort
 - Quick sort
