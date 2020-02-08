@@ -23,9 +23,10 @@ func main() {
 	start := time.Now() 
 	
 	// Choose what you like ==================================
-	fmt.Println(mysort.Insertionsort(data))
+	//fmt.Println(mysort.Insertionsort(data))
 	//fmt.Println(mysort.Mergesort(data))
 	//fmt.Println(mysort.Quicksort(data))
+	fmt.Println(mysort.Bubblesort(data))
 	//====================================Uai================
 	end := time.Now()
 	fmt.Printf("%fs\n", (end.Sub(start)).Seconds()) //Execution time
